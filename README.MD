@@ -1,3 +1,3 @@
 # new project
 
-This projroject was created from system.
+This project was created from system.
